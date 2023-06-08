@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Gupta</h1>
 <h3 align="center">A maker trying to learn eveyrything</h3>
+<img align=""right alt="Coding" src="https://github.com/vikkey321/vikkey321/blob/main/VivekGupta.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikkey321&label=Profile%20views&color=0e75b6&style=flat" alt="vikkey321" /> </p>
 
 - 🔭 I’m currently working on **IoT/Robotics/Blockchain/Conversational AI**
